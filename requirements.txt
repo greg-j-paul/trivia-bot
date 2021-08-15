@@ -1,0 +1,4 @@
+flair
+pymediawiki
+transformers
+pytorch
