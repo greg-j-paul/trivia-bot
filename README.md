@@ -16,3 +16,4 @@ To start the bot:
 2. Create a .env file with the `TOKEN=whateveryourtokenis`
 3. Run `python main.py`
 
+![Trvia bot](images/image.png)
